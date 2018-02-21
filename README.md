@@ -1,2 +1,1 @@
 # ForJenkinsTraining
-trigger

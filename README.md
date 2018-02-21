@@ -1,2 +1,2 @@
 # ForJenkinsTraining
-trigger removed
+trigger

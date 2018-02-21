@@ -1,1 +1,2 @@
 # ForJenkinsTraining
+trigger
